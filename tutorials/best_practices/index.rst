@@ -19,3 +19,4 @@ Best practices
    logic_preferences
    project_organization
    version_control_systems
+   gdscript_best_practices
